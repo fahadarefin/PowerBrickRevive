@@ -1,6 +1,6 @@
-# **Retro Brick Charger**
+# **PowerBrickRevive**
 
-<img src="https://github.com/fahadarefin/PowerBrickRevive/blob/main/RetroBrickCharger.png" alt="Retro Brick Charger" width="500"/>
+<img src="https://github.com/fahadarefin/PowerBrickRevive/blob/main/PowerBrickRevive.png" alt="PowerBrickRevive" width="500"/>
 
 ---
 
@@ -17,7 +17,7 @@ Improper assembly or using low-quality components may cause **fire, electric sho
 
 ## **Overview**
 
-The Retro Brick Charger repurposes an old laptop power brick into a modern charger that supports both QC 3.0 and QC 4.0 fast charging protocols. It achieves this by connecting pre-made modules in parallel, enabling compatibility with multiple protocols through a single power source.  
+The PowerBrickRevive repurposes an old laptop power brick into a modern charger that supports both QC 3.0 and QC 4.0 fast charging protocols. It achieves this by connecting pre-made modules in parallel, enabling compatibility with multiple protocols through a single power source.  
 
 This environmentally friendly project is easy to build, requiring minimal tools and no custom circuit boards.
 
